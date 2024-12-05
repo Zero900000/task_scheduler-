@@ -1,6 +1,6 @@
 task1: learn python
-
 task3: get dinner
-task4:go to university
-task 5 : finish up the python assingment
-task 6 : practice git- hands on
+task4: go to university
+task5: finish up the python assingment
+task6: practice git- hands on
+task7: practice python
