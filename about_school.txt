@@ -1,0 +1,3 @@
+task1: go to school
+task2: go to first period and rest
+task3: to go lunch
